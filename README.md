@@ -1,7 +1,7 @@
 
 <h3 align="center">A Junior Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C#/.NET**
+- 🌱 I’m currently learning **Computer Vision**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaklee&label=Profile%20views&color=009dff&style=flat" alt="mustafaklee" /> </p>
 - 📫 How to reach me **mustafa12kale@gmail.com**
 
